@@ -19,7 +19,7 @@
   
     |시기|주제|내용|
     |:------:|:---:|:---|
-    |2021년 1월|[SAI - I팀 프로젝트](https://github.com/sju-coml/2020-Font-picker)|(팀프로젝트) GAN 모델의 Interpolation을 이용한 글씨체 사이 글씨체 찾기|
+    |2021년 1월|[SAI - I팀 프로젝트](https://github.com/sju-coml/2020-Font-picker)|(팀프로젝트) GAN 모델의 Interpolation을 이용한 한 글꼴과 다른 글꼴의 중간 스타일 찾기|
     |2020년 10월 ~ 2020년 12월|[SAI 2학기 활동](https://github.com/khodid/2020_tri-KERA-top-S)|교재, <케라스 창시자에게 배우는 딥러닝> 기반|
     |2020년 08월|[GAN 입문](https://github.com/khodid/2020Evening)|주제는 GAN이었는데 스스로 코드 짜는 법을 배운 점이 더 큼|
     |2020년 3월 ~ 2020년 6월|[딥러닝 입문](https://github.com/khodid/2020_SAI_MONING2)|모두를 위한 딥러닝 시즌2 보고 공부함|
