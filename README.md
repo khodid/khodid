@@ -6,6 +6,7 @@
   
     |시기|과목명|내용|
     |:------:|:---:|:---|
+    |2021-1학기|[무선통신공학](https://github.com/khodid/2021WirelessCommunication)|수업 과제물(주로 시뮬레이션)|
     |2020-2학기|[영상처리](https://github.com/khodid/2020ImageProcessing)|수업 과제물과 최종 프로젝트|
     |2020-1학기|[데이터통신](https://github.com/khodid/2020DataCommuntication)|CRC-x 구현 및 시뮬레이션|
     |2020-1학기|[하드웨어프로그래밍](https://github.com/khodid/2020HDL)|Verilog HDL 수업 필기 및 실습 자료|
@@ -19,6 +20,7 @@
   
     |시기|주제|내용|
     |:------:|:---:|:---|
+    |2021-1학기|[머신러닝\/데이터분석 입문](https://github.com/khodid/2021MachineLearningIntro)|머신러닝과 Kaggle 입문|
     |2021년 1월|[SAI I팀 프로젝트](https://github.com/sju-coml/2020-Font-picker)|\<Font Picker\>: GAN 모델의 Interpolation을 이용해 한 글꼴과 다른 글꼴의 중간 스타일 찾기|
     |2020년 10월 ~ 2020년 12월|[SAI 2학기 활동](https://github.com/khodid/2020_tri-KERA-top-S)|교재, <케라스 창시자에게 배우는 딥러닝> 기반|
     |2020년 08월|[GAN 입문](https://github.com/khodid/2020Evening)|주제는 GAN이었는데 스스로 코드 짜는 법을 배운 점이 더 큼|
