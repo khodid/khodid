@@ -1,27 +1,18 @@
-# Repository
+# PERSONAL INFORMATION
+- Passionate learner throughout various disciplines of engineering: Electrical Enginnering, Electronic Engineering, Telecommunications, Machine Learning, Computer Science, etc.
 
-1. **전공수업 (전자 & 정보통신)**
+# MY REPOSITORIES
 
-    전공공부는 열심히 했는데 플밍과제가 별로 없어서 여기 올릴 건 없음...
-  
-    |시기|과목명|내용|
-    |:------:|:---:|:---|
-    |2021-1학기|[무선통신공학](https://github.com/khodid/2021WirelessCommunication)|수업 과제물(주로 시뮬레이션)|
-    |2020-2학기|[영상처리](https://github.com/khodid/2020ImageProcessing)|수업 과제물과 최종 프로젝트|
-    |2020-1학기|[데이터통신](https://github.com/khodid/2020DataCommuntication)|CRC-x 구현 및 시뮬레이션|
-    |2020-1학기|[하드웨어프로그래밍](https://github.com/khodid/2020HDL)|Verilog HDL 수업 필기 및 실습 자료|
-    |2019-2학기|[기초설계(아두이노)](https://github.com/khodid/2019BasicEngineeringDesign)|푸드코트 자동호출기|
-
-
-
-2. **딥러닝 공부**
- 
-    그냥 요즘 대세라서 공부했음
-  
-    |시기|주제|내용|
-    |:------:|:---:|:---|
-    |2021-1학기|[머신러닝\/데이터분석 입문](https://github.com/khodid/2021MachineLearningIntro)|머신러닝과 Kaggle 입문|
-    |2021년 1월|[SAI I팀 프로젝트](https://github.com/sju-coml/2020-Font-picker)|\<Font Picker\>: GAN 모델의 Interpolation을 이용해 한 글꼴과 다른 글꼴의 중간 스타일 찾기|
-    |2020년 10월 ~ 2020년 12월|[SAI 2학기 활동](https://github.com/khodid/2020_tri-KERA-top-S)|교재, <케라스 창시자에게 배우는 딥러닝> 기반|
-    |2020년 08월|[GAN 입문](https://github.com/khodid/2020Evening)|주제는 GAN이었는데 스스로 코드 짜는 법을 배운 점이 더 큼|
-    |2020년 3월 ~ 2020년 6월|[딥러닝 입문](https://github.com/khodid/2020_SAI_MONING2)|모두를 위한 딥러닝 시즌2 보고 공부함|
+1. FROM COURSES
+    |DATE|SOURCE|TITLE|DETAILS|
+    |:------:|:---:|:---:|:---|
+    |2021-S|Course|[Wireless Communications Course](https://github.com/khodid/2021WirelessCommunication)| Class Assignments (mainly simulations)|
+    |2020-2학기|Course|[Image Processing Course](https://github.com/khodid/2020ImageProcessing)|Class Assignments and the term project|
+    |2020-1학기|Course|[Data Communication Course](https://github.com/khodid/2020DataCommuntication)| Term project on implementing CRC-x from scratch (cyclic redundancy check)|
+    |2020-1학기|Course|[Hardware Programming Course](https://github.com/khodid/2020HDL)|Course materials from Verilog HDL|
+    |2019-2학기|Course|[(Arduino) Basic Design Course](https://github.com/khodid/2019BasicEngineeringDesign)|Topic: Automatic customer calling system for Korean Food courts|
+    |2021-1학기|Study group|[머신러닝과 데이터분석 입문](https://github.com/khodid/2021MachineLearningIntro)|머신러닝과 Kaggle 입문|
+    |2021년 1월|Study group|[SAI I팀 프로젝트](https://github.com/sju-coml/2020-Font-picker)|\<Font Picker\>: GAN 모델의 Interpolation을 이용해 한 글꼴과 다른 글꼴의 중간 스타일 찾기|
+    |2020년 10월 ~ 2020년 12월|Study group|[SAI 2학기 활동](https://github.com/khodid/2020_tri-KERA-top-S)|교재, <케라스 창시자에게 배우는 딥러닝> 기반|
+    |2020년 08월|Study group|[GAN 입문](https://github.com/khodid/2020Evening)|주제는 GAN이었는데 스스로 코드 짜는 법을 배운 점이 더 큼|
+    |2020년 3월 ~ 2020년 6월|Study group|[딥러닝 입문](https://github.com/khodid/2020_SAI_MONING2)|모두를 위한 딥러닝 시즌2 보고 공부함|
